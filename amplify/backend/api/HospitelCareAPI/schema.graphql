@@ -1,0 +1,21 @@
+type Room @model {
+  id: ID!
+  room_name: String!
+  resident_name: String!
+  resident_gender: String!
+  resident_phone: String!
+  resident_allergyFood: String!
+  resident_allergyDrug: String!
+  contact_name: String!
+  contact_phone: String!
+  checkin: String
+}
+
+type ResidentLog @model {
+  id: ID!
+  resident_name: String!
+  resident_gender: String!
+  resident_phone: String!
+  checkin: String
+  checkout: String
+}

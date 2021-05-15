@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hospitelcare-dev-121339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-121339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-121339-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hospitelcare-dev-121339-deployment",
+      "UnauthRoleName": "amplify-hospitelcare-dev-121339-unauthRole",
+      "StackName": "amplify-hospitelcare-dev-121339",
+      "StackId": "arn:aws:cloudformation:us-east-1:372159798727:stack/amplify-hospitelcare-dev-121339/a8d75b90-b217-11eb-810f-0a2d95c2b2ab",
+      "AmplifyAppId": "dex9rtb5pfjfo"
+    },
+    "categories": {
+      "auth": {
+        "hospitelcare50c3bf23": {}
+      }
+    }
+  }
+}

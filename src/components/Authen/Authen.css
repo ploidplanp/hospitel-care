@@ -25,3 +25,22 @@
         transform: rotate(360deg);
     }
 }
+
+.login-box {
+    background-image: url('./../../delluna.jpeg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-login {
+    width: 100%;
+    background-color: #02acd0;
+    border-color: #02acd0;
+}
+
+.card-header h3 {
+    /* color: #e2bcb7; */
+    color: #ed8984;
+}
