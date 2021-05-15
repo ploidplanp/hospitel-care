@@ -1,10 +1,10 @@
 {
-  "AppSyncApiName": "HospitelCareAPI",
+  "AppSyncApiName": "HospitelAPI",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
   "DynamoDBEnableServerSideEncryption": false,
   "AuthCognitoUserPoolId": {
     "Fn::GetAtt": [
-      "authhospitelcare50c3bf23",
+      "authhospitelcare8949a193",
       "Outputs.UserPoolId"
     ]
   }

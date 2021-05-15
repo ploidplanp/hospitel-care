@@ -1,6 +1,6 @@
 {
   "auth": {
-    "hospitelcare50c3bf23": {
+    "hospitelcare8949a193": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -8,7 +8,7 @@
     }
   },
   "api": {
-    "HospitelCareAPI": {
+    "HospitelAPI": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "output": {
@@ -16,7 +16,7 @@
           "defaultAuthentication": {
             "authenticationType": "AMAZON_COGNITO_USER_POOLS",
             "userPoolConfig": {
-              "userPoolId": "authhospitelcare50c3bf23"
+              "userPoolId": "authhospitelcare8949a193"
             }
           },
           "additionalAuthenticationProviders": []

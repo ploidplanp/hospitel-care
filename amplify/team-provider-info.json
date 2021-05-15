@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-hospitelcare-dev-121339-authRole",
-      "UnauthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-121339-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-121339-authRole",
+      "AuthRoleName": "amplify-hospitelcare-dev-00822-authRole",
+      "UnauthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-00822-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::372159798727:role/amplify-hospitelcare-dev-00822-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-hospitelcare-dev-121339-deployment",
-      "UnauthRoleName": "amplify-hospitelcare-dev-121339-unauthRole",
-      "StackName": "amplify-hospitelcare-dev-121339",
-      "StackId": "arn:aws:cloudformation:us-east-1:372159798727:stack/amplify-hospitelcare-dev-121339/a8d75b90-b217-11eb-810f-0a2d95c2b2ab",
-      "AmplifyAppId": "dex9rtb5pfjfo"
+      "DeploymentBucketName": "amplify-hospitelcare-dev-00822-deployment",
+      "UnauthRoleName": "amplify-hospitelcare-dev-00822-unauthRole",
+      "StackName": "amplify-hospitelcare-dev-00822",
+      "StackId": "arn:aws:cloudformation:us-east-1:372159798727:stack/amplify-hospitelcare-dev-00822/2ae9c3d0-b5a0-11eb-98f2-0afa5528cb21",
+      "AmplifyAppId": "d3etl92iiwskke"
     },
     "categories": {
       "auth": {
-        "hospitelcare50c3bf23": {}
+        "hospitelcare8949a193": {}
       }
     }
   }

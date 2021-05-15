@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "hospitelcare50c3bf23_identitypool_50c3bf23",
+    "identityPoolName": "hospitelcare8949a193_identitypool_8949a193",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "hospit50c3bf23",
-    "userPoolName": "hospitelcare50c3bf23_userpool_50c3bf23",
+    "resourceNameTruncated": "hospit8949a193",
+    "userPoolName": "hospitelcare8949a193_userpool_8949a193",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "hospit50c3bf23_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "hospit8949a193_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "50c3bf23",
-    "resourceName": "hospitelcare50c3bf23",
+    "sharedId": "8949a193",
+    "resourceName": "hospitelcare8949a193",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [

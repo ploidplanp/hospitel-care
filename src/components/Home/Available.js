@@ -43,7 +43,7 @@ const Available = () => {
         {/* end header */}
         <hr />
         <div className="row mb-5">
-          {rooms.map((room) => (
+          {rooms.sort((a, b) => a.id - b.id).map((room) => (
               <div
                 key={room.id}
                 className="col-md-6 col-sm-6 col-xs-6 text-center mt-3 mb-3"
